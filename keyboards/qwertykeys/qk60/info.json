@@ -21,7 +21,7 @@
         "bootmagic": true,
         "extrakey": true,
         "mousekey": true,
-        "nkro": true
+        "nkro": false
     },
     "processor": "STM32F103",
     "board": "STM32_F103_STM32DUINO",
